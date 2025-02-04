@@ -3,7 +3,7 @@
 - JDK 28 
 - Maven 3.9 
 - MySQL 89
-
+hsql123
 # Technologies 
 - JAKARTA
 - Spring MVC
